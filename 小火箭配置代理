@@ -1,7 +1,7 @@
 # Shadowrocket小火箭配置文件
 # 预览图https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/IMG/preview.png
 # 二维码生成https://tool.oschina.net/qr
-# 模块直装地址https://ybnet.ga
+
 
 [General]
 bypass-system = true
