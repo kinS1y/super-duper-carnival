@@ -117,5 +117,5 @@ FINAL,🚀 策略选择
 ^https?://(www.)?google.cn https://www.google.com 302
 
 [MITM]
-enable = true
+enable = false
 hostname = 
